@@ -3,6 +3,19 @@ body{
     background-color: black;
     color:aliceblue;
     text-align: center;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    color: #fff;
+    justify-content: end;
+    background-color: gray;
+    margin: 0;
+    padding:20px
+}
+nav>ul>li {
+    padding-left: 30px;
 }
 
 li {
